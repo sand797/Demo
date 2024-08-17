@@ -1,6 +1,6 @@
 # Demo
 This is my first repository program
-<br><font face="Times New Roman" size="40" colour="orange">
+<br><font face="Times New Roman" size="5" colour="orange">
 Iam G sandeep 
 </font>
 <br>
