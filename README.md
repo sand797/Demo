@@ -1,7 +1,7 @@
 # Demo
 This is my first repository program
-<br><b><font face="Times New Roman" size="20" colour="red">
-Iam G sandeep </b>
+<br>< font face="Times New Roman" size="40" colour="orange">
+Iam G sandeep 
 </font>
 <br>
 <i>
